@@ -1,0 +1,3 @@
+/Users/oliverturk/Programming/coretech-graduate-challlenge/build/CMakeFiles/PacketProcessor.dir
+/Users/oliverturk/Programming/coretech-graduate-challlenge/build/CMakeFiles/edit_cache.dir
+/Users/oliverturk/Programming/coretech-graduate-challlenge/build/CMakeFiles/rebuild_cache.dir
